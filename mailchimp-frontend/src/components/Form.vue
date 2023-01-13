@@ -84,7 +84,7 @@
 								type="text"
 								name="contentPay"
 								v-model="form.contentPay"
-								label="Fourchette de rémunération"
+								label="Fourchette de rétribution"
 								required
 								:rules="[(v) => !!v || 'Champ requis']"
 								prepend-icon="payments"
@@ -99,7 +99,7 @@
 								item-value="abbr"
 								name="imagePay"
 								v-model="form.imagePay"
-								label="Image de la rémunération"
+								label="Image de la rétribution"
 								required
 								:rules="[(v) => !!v || 'Champ requis']"
 								prepend-icon="mdi-"

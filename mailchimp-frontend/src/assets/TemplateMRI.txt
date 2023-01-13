@@ -647,14 +647,14 @@ Nous vous proposons aujourd’hui une étude ...
         
             
 
-            <img alt="Rémunération" src="https://mcusercontent.com/d64b9431d63c83512b8b612ee/images/ad81493a-5281-4772-adef-4bcebee00243.png" width="100%" style="max-width: 250px; border-top-left-radius: 0%; border-top-right-radius: 0%; border-bottom-right-radius: 0%; border-bottom-left-radius: 0%;" class="mcnImage">
+            <img alt="Rétribution" src="https://mcusercontent.com/d64b9431d63c83512b8b612ee/images/ad81493a-5281-4772-adef-4bcebee00243.png" width="100%" style="max-width: 250px; border-top-left-radius: 0%; border-top-right-radius: 0%; border-bottom-right-radius: 0%; border-bottom-left-radius: 0%;" class="mcnImage">
             
         
         </td>
     </tr>
     <tr>
         <td class="mcnTextContent" valign="top" style="padding:0 9px 0 9px;" width="100%">
-            <h4 class="null" style="text-align: center; font-size: smaller; font-weight: lighter; color: #757575;">RÉMUNÉRATION</h4>
+            <h4 class="null" style="text-align: center; font-size: smaller; font-weight: lighter; color: #757575;">RÉTRIBUTION</h4>
 			<h4 class="null" style="text-align: center;">1000-1500€</h4>
 
         </td>
