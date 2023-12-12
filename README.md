@@ -12,7 +12,7 @@ Finally, a test email is sent to auditors for review.
 ![example](/resources/ExampleMRI.png)
 
 - We thanks [corentin-ryr](https://github.com/corentin-ryr) and [hugoqnc](https://github.com/hugoqnc) for the first version of this project.
-- documentation is available at [https://corentin-ryr.github.io/Intranet-Mailchimp/](https://corentin-ryr.github.io/Intranet-Mailchimp/)
+- Vue documentation is available at [https://telecom-etude.github.io/mri.telecom-etude.fr](https://telecom-etude.github.io/mri.telecom-etude.fr)
 - the ability to create campaigns with this deployed website is restricted to active members of [Telecom Etude](https://telecom-etude.fr) Junior-Entreprise. This is achieved with the necessity to sign in with a `@telecom-etude.fr` Google Workspace account.
 
 ## Development
