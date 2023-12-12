@@ -177,7 +177,7 @@
 									color="red"
 									outlined
 									depressed
-									href="https://github.com/corentin-ryr/Intranet-Mailchimp/issues"
+									href="https://github.com/Telecom-Etude/mri.telecom-etude.fr/issues"
 								>
 									Signaler un problème
 								</v-btn>
@@ -215,7 +215,7 @@
 							color="black"
 							outlined
 							link
-							href="https://github.com/corentin-ryr/Intranet-Mailchimp"
+							href="https://github.com/Telecom-Etude/mri.telecom-etude.fr"
 						>
 							<v-icon left>
 								mdi-github
