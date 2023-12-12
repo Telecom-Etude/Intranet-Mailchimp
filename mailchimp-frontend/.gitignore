@@ -1,38 +1,21 @@
-dist
-node_modules
-.DS_Store
-
-#Firebase
-.firebase/
-firebase-debug.log*
-firebase-debug.*.log*
-firebaseCredentials.json
-
-# local env files
-.env.local
-.env.*.local
-
-# Log files
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-
-# Editor directories and files
-.idea
-.vscode
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
-
 # Logs
 logs
 *.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+firebase-debug.log*
+firebase-debug.*.log*
+
+# Firebase cache
+.firebase/
+
+# Firebase config
+
+# Uncomment this if you'd like others to create their own Firebase project.
+# For a team working on the same Firebase project(s), it is recommended to leave
+# it commented so all members can deploy to the same project(s) in .firebaserc.
+# .firebaserc
 
 # Runtime data
 pids
@@ -81,7 +64,3 @@ node_modules/
 
 # dotenv environment variables file
 .env
-
-#Sensitive Files ================================================================================================
-
-credentials.json
